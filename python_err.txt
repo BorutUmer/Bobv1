@@ -1,0 +1,381 @@
+data/VERSION file detected using value from version file: 537:47eda58327ee
+Initialized logging
+VERSION: 1.0.2
+HG REVISION: r537 (47eda58327ee) [data/VERSION static revision data]
+SHORT VERSION: v1.0.2
+BASEMESH VERSION: hm08
+IS BUILT (FROZEN): Yes
+IS RELEASE VERSION: Yes
+WORKING DIRECTORY: D:\makehuman
+HOME LOCATION: C:\Users\Borut
+SYS.VERSION: 2.7.6 (default, Nov 10 2013, 19:24:18) [MSC v.1500 32 bit (Intel)]
+SYS.PLATFORM: win32
+PLATFORM.MACHINE: x86
+PLATFORM.PROCESSOR: x86 Family 6 Model 15 Stepping 11, GenuineIntel
+PLATFORM.UNAME.RELEASE: 7
+PLATFORM.WIN32_VER: 7 6.1.7601 SP1 Multiprocessor Free
+NUMPY.VERSION: 1.8.1
+OpenGL_accelerate module loaded
+Using accelerated ArrayDatatype
+PYQT.VERSION: 4.8.5
+PYQT.SVG_SUPPORT: not supported
+PYOPENGL.VERSION: 3.1.0b2
+GL.VENDOR: NVIDIA Corporation
+GL.RENDERER: GeForce GTX 750 Ti/PCIe/SSE2
+GL.VERSION: 4.5.0 NVIDIA 355.60
+GLSL.VERSION: 4.50 NVIDIA
+GL.EXTENSION: GL_ARB_multisample enabled (4x samples)
+Creating new texture for image data/textures/texture_notfound.png.
+GL.EXTENSION: GL_ARB_texture_non_power_of_two enabled
+initTexture: 256, 256, False
+Setting language to english
+Setting language to english
+Theme default version 1.0.0
+Loaded theme data/themes/default.mht
+Using Qt system style windowsvista
+Loading human
+Loading binary mesh data/3dobjs/base.npz.
+Loading material from file data/skins/default.mhmat
+Shader: adding built-in uniform gl_ModelViewProjectionMatrixTranspose
+Shader: adding built-in uniform gl_NormalMatrix
+Loading scene
+Loading scene file: data/scenes/default.mhscene
+Loading main GUI
+Loading plugins
+Creating new texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+initTexture: 256, 256, False
+Importing plugin 0_modeling_0_modifiers
+Imported plugin 0_modeling_0_modifiers
+Loading plugin 0_modeling_0_modifiers
+Loading modifiers from data/modifiers/modeling_modifiers.json
+Attempting to load targets from NPZ file.
+1173 targets loaded from NPZ file succesfully.
+Loaded 198 modifiers from file data/modifiers/modeling_modifiers.json
+Loaded 198 modifier descriptions from file data/modifiers/modeling_modifiers_desc.json
+Loaded plugin 0_modeling_0_modifiers
+Reloading texture for dynamic image data/litspheres/adaptive_skin_tone.png.
+initTexture: 256, 256, False
+Importing plugin 0_modeling_9_custom_targets
+Imported plugin 0_modeling_9_custom_targets
+Loading plugin 0_modeling_9_custom_targets
+Loaded plugin 0_modeling_9_custom_targets
+Importing plugin 0_modeling_a_measurement
+Imported plugin 0_modeling_a_measurement
+Loading plugin 0_modeling_a_measurement
+Loading modifiers from data/modifiers/measurement_modifiers.json
+Loaded 19 modifiers from file data/modifiers/measurement_modifiers.json
+Loaded plugin 0_modeling_a_measurement
+Importing plugin 0_modeling_background
+Imported plugin 0_modeling_background
+Loading plugin 0_modeling_background
+Loaded plugin 0_modeling_background
+Importing plugin 3_libraries_clothes_chooser
+Imported plugin 3_libraries_clothes_chooser
+Loading plugin 3_libraries_clothes_chooser
+Loaded plugin 3_libraries_clothes_chooser
+Importing plugin 3_libraries_eye_chooser
+Imported plugin 3_libraries_eye_chooser
+Loading plugin 3_libraries_eye_chooser
+Selecting proxy file "data/eyes/high-poly/high-poly.mhclo" from eyes library.
+Loading proxy file: data/eyes/high-poly/high-poly.mhclo.
+Loading material from file D:\makehuman\data\eyes\high-poly\../materials/brown.mhmat
+VectorUniform(AdditiveShading) = [ 0.]
+Shader: adding built-in uniform gl_ModelViewProjectionMatrixTranspose
+Shader: adding built-in uniform gl_NormalMatrix
+VectorUniform(AdditiveShading) = [ 0.]
+Unknown keyword use_projection found in proxy file data/eyes/high-poly/high-poly.mhclo
+Loading binary mesh D:\makehuman\data\eyes\high-poly\high-poly.npz.
+Loaded plugin 3_libraries_eye_chooser
+Importing plugin 3_libraries_eyebrows
+Imported plugin 3_libraries_eyebrows
+Loading plugin 3_libraries_eyebrows
+Loaded plugin 3_libraries_eyebrows
+Importing plugin 3_libraries_eyelashes
+Imported plugin 3_libraries_eyelashes
+Loading plugin 3_libraries_eyelashes
+Loaded plugin 3_libraries_eyelashes
+Importing plugin 3_libraries_genitals_chooser
+Imported plugin 3_libraries_genitals_chooser
+Loading plugin 3_libraries_genitals_chooser
+Loaded plugin 3_libraries_genitals_chooser
+Importing plugin 3_libraries_material_chooser
+Imported plugin 3_libraries_material_chooser
+Loading plugin 3_libraries_material_chooser
+Loaded plugin 3_libraries_material_chooser
+Importing plugin 3_libraries_polygon_hair_chooser
+Imported plugin 3_libraries_polygon_hair_chooser
+Loading plugin 3_libraries_polygon_hair_chooser
+Loaded plugin 3_libraries_polygon_hair_chooser
+Importing plugin 3_libraries_proxy_chooser
+Imported plugin 3_libraries_proxy_chooser
+Loading plugin 3_libraries_proxy_chooser
+Loaded plugin 3_libraries_proxy_chooser
+Importing plugin 3_libraries_skeleton
+Imported plugin 3_libraries_skeleton
+Loading plugin 3_libraries_skeleton
+Loaded plugin 3_libraries_skeleton
+Importing plugin 3_libraries_teeth
+Imported plugin 3_libraries_teeth
+Loading plugin 3_libraries_teeth
+Loaded plugin 3_libraries_teeth
+Importing plugin 3_libraries_tongue
+Imported plugin 3_libraries_tongue
+Loading plugin 3_libraries_tongue
+Loaded plugin 3_libraries_tongue
+Importing plugin 4_rendering_9_viewer
+Imported plugin 4_rendering_9_viewer
+Loading plugin 4_rendering_9_viewer
+Loaded plugin 4_rendering_9_viewer
+Importing plugin 4_rendering_opengl
+Imported plugin 4_rendering_opengl
+Loading plugin 4_rendering_opengl
+Chose alternate: glGenRenderbuffers from glGenRenderbuffers, glGenRenderbuffersEXT
+Chose alternate: glBindRenderbuffer from glBindRenderbuffer, glBindRenderbufferEXT
+Chose alternate: glRenderbufferStorage from glRenderbufferStorage, glRenderbufferStorageEXT
+Chose alternate: glGenFramebuffers from glGenFramebuffers, glGenFramebuffersEXT
+Chose alternate: glBindFramebuffer from glBindFramebuffer, glBindFramebufferEXT
+Chose alternate: glFramebufferRenderbuffer from glFramebufferRenderbuffer, glFramebufferRenderbufferEXT
+Loaded plugin 4_rendering_opengl
+Importing plugin 4_rendering_scene
+Imported plugin 4_rendering_scene
+Loading plugin 4_rendering_scene
+Loaded plugin 4_rendering_scene
+Importing plugin 5_settings_0_settings
+Imported plugin 5_settings_0_settings
+Loading plugin 5_settings_0_settings
+Loaded plugin 5_settings_0_settings
+Importing plugin 5_settings_mouse
+Imported plugin 5_settings_mouse
+Loading plugin 5_settings_mouse
+Loaded plugin 5_settings_mouse
+Importing plugin 5_settings_shortcuts
+Imported plugin 5_settings_shortcuts
+Loading plugin 5_settings_shortcuts
+Loaded plugin 5_settings_shortcuts
+Importing plugin 6_help
+Imported plugin 6_help
+Loading plugin 6_help
+Loaded plugin 6_help
+Importing plugin 7_logging
+Imported plugin 7_logging
+Loading plugin 7_logging
+Loaded plugin 7_logging
+Importing plugin 9_export_bvh
+Imported plugin 9_export_bvh
+Loading plugin 9_export_bvh
+Loaded plugin 9_export_bvh
+Importing plugin 9_export_collada
+Imported plugin 9_export_collada
+Loading plugin 9_export_collada
+Loaded plugin 9_export_collada
+Importing plugin 9_export_fbx
+Imported plugin 9_export_fbx
+Loading plugin 9_export_fbx
+Loaded plugin 9_export_fbx
+Importing plugin 9_export_light
+Imported plugin 9_export_light
+Loading plugin 9_export_light
+Loaded plugin 9_export_light
+Importing plugin 9_export_md5
+Imported plugin 9_export_md5
+Loading plugin 9_export_md5
+Loaded plugin 9_export_md5
+Importing plugin 9_export_mhx
+Imported plugin 9_export_mhx
+Loading plugin 9_export_mhx
+Loaded plugin 9_export_mhx
+Importing plugin 9_export_obj
+Imported plugin 9_export_obj
+Loading plugin 9_export_obj
+Loaded plugin 9_export_obj
+Importing plugin 9_export_ogre
+Imported plugin 9_export_ogre
+Loading plugin 9_export_ogre
+Loaded plugin 9_export_ogre
+Importing plugin 9_export_skel
+Imported plugin 9_export_skel
+Loading plugin 9_export_skel
+Loaded plugin 9_export_skel
+Importing plugin 9_export_stl
+Imported plugin 9_export_stl
+Loading plugin 9_export_stl
+Loaded plugin 9_export_stl
+Importing plugin 9_export_uvmap
+Imported plugin 9_export_uvmap
+Loading plugin 9_export_uvmap
+Loaded plugin 9_export_uvmap
+Loading GUI
+showing category Modelling
+showing task Macro modelling
+Creating new texture for image D:\makehuman\data\eyes\materials\brown_eye.png.
+initTexture: 1024, 1024, False
+Creating new texture for image D:\makehuman\data\litspheres\skinmat_eye.png.
+initTexture: 256, 256, False
+Loading theme
+Theme makehuman version 1.0.0
+Loaded theme data/themes/makehuman.mht
+Loaded Qt style data/themes/makehuman.qss
+Applying targets
+Loading macro targets
+Loading done
+
+do Change modifier
+do Change modifier
+hiding task Macro modelling
+showing task Gender
+do Change modifier
+hiding task Gender
+showing task Face
+hiding task Face
+showing task Torso
+hiding task Torso
+showing task Arms and Legs
+hiding task Arms and Legs
+showing task Custom
+hiding task Custom
+showing task Measure
+hiding category Modelling
+showing category Geometries
+hiding task Measure
+showing task Clothes
+hiding task Clothes
+showing task Eyes
+Selecting proxy file "data/eyes\low-poly\low-poly.mhclo" from eyes library.
+Loading proxy file: data/eyes\low-poly\low-poly.mhclo.
+Loading material from file D:\makehuman\data\eyes\low-poly\../materials/brown.mhmat
+Loading binary mesh D:\makehuman\data\eyes\low-poly\low-poly.npz.
+do Change eyes
+hiding task Eyes
+showing task Hair
+Selecting proxy file "data/hair\fhair01\fhair01.mhclo" from hair library.
+Loading proxy file: data/hair\fhair01\fhair01.mhclo.
+Loading material from file D:\makehuman\data\hair\fhair01\materials/fhair01_black.mhmat
+Shader: adding built-in uniform gl_ModelViewProjectionMatrixTranspose
+Shader: adding built-in uniform gl_NormalMatrix
+VectorUniform(AdditiveShading) = [ 0.]
+Shader: adding built-in uniform gl_ModelViewProjectionMatrixTranspose
+Shader: adding built-in uniform gl_NormalMatrix
+VectorUniform(AdditiveShading) = [ 0.]
+VectorUniform(AdditiveShading) = [ 0.]
+VectorUniform(normalmapIntensity) = [ 1.]
+Shader: adding built-in uniform gl_ModelViewProjectionMatrixTranspose
+Shader: adding built-in uniform gl_NormalMatrix
+VectorUniform(AdditiveShading) = [ 0.]
+VectorUniform(normalmapIntensity) = [ 1.]
+Loading binary mesh D:\makehuman\data\hair\fhair01\fhair01.npz.
+do Change hair
+VectorUniform(AdditiveShading) = [ 0.]
+VectorUniform(normalmapIntensity) = [ 1.]
+Shader: adding built-in uniform gl_ModelViewProjectionMatrixTranspose
+Shader: adding built-in uniform gl_NormalMatrix
+VectorUniform(AdditiveShading) = [ 0.]
+VectorUniform(normalmapIntensity) = [ 1.]
+Creating new texture for image D:\makehuman\data\hair\fhair01\materials\diffuse_black.png.
+initTexture: 2048, 2048, False
+Creating new texture for image D:\makehuman\data\litspheres\lit_refl_sharp_aniso_hard.png.
+initTexture: 256, 256, False
+Creating new texture for image D:\makehuman\data\hair\fhair01\materials\normals.png.
+initTexture: 2048, 2048, False
+hiding task Hair
+showing task Teeth
+hiding task Teeth
+showing task Genitals
+Selecting proxy file "data/genitals\vag01\vag01.mhclo" from genitals library.
+Loading proxy file: data/genitals\vag01\vag01.mhclo.
+Loading material from file D:\makehuman\data\genitals\vag01\default.mhmat
+Shader: adding built-in uniform gl_ModelViewProjectionMatrixTranspose
+Shader: adding built-in uniform gl_NormalMatrix
+Loading binary mesh D:\makehuman\data\genitals\vag01\vag01.npz.
+Clothes library: updating face masks (face hiding enabled).
+0 faces masked for vag01.obj
+Loaded 0 deleted verts (0 faces) from vag01 proxy.
+0 faces masked for base.obj
+do Change genitals
+Creating new texture for image D:\makehuman\data\genitals\vag01\vag01_default.png.
+initTexture: 512, 512, False
+Selecting proxy file "data/genitals\penis01\penis01.mhclo" from genitals library.
+Loading proxy file: data/genitals\penis01\penis01.mhclo.
+Loading material from file D:\makehuman\data\genitals\penis01\default.mhmat
+Loading binary mesh D:\makehuman\data\genitals\penis01\penis01.npz.
+Clothes library: updating face masks (face hiding enabled).
+0 faces masked for penis01.obj
+Loaded 0 deleted verts (0 faces) from penis01 proxy.
+0 faces masked for base.obj
+do Change genitals
+Creating new texture for image D:\makehuman\data\genitals\penis01\penis01_default.png.
+initTexture: 512, 512, False
+Selecting proxy file "data/genitals\vag01\vag01.mhclo" from genitals library.
+Loading binary mesh D:\makehuman\data\genitals\vag01\vag01.npz.
+Clothes library: updating face masks (face hiding enabled).
+0 faces masked for vag01.obj
+Loaded 0 deleted verts (0 faces) from vag01 proxy.
+0 faces masked for base.obj
+do Change genitals
+Unloading plugin 9_export_obj
+Unloaded plugin 9_export_obj
+Unloading plugin 5_settings_shortcuts
+Unloaded plugin 5_settings_shortcuts
+Unloading plugin 4_rendering_scene
+Unloaded plugin 4_rendering_scene
+Unloading plugin 9_export_collada
+Unloaded plugin 9_export_collada
+Unloading plugin 5_settings_0_settings
+Unloaded plugin 5_settings_0_settings
+Unloading plugin 9_export_md5
+Unloaded plugin 9_export_md5
+Unloading plugin 4_rendering_opengl
+Unloaded plugin 4_rendering_opengl
+Unloading plugin 5_settings_mouse
+Unloaded plugin 5_settings_mouse
+Unloading plugin 3_libraries_proxy_chooser
+Unloaded plugin 3_libraries_proxy_chooser
+Unloading plugin 3_libraries_material_chooser
+Unloaded plugin 3_libraries_material_chooser
+Unloading plugin 6_help
+Unloaded plugin 6_help
+Unloading plugin 9_export_fbx
+Unloaded plugin 9_export_fbx
+Unloading plugin 9_export_stl
+Unloaded plugin 9_export_stl
+Unloading plugin 3_libraries_clothes_chooser
+Unloaded plugin 3_libraries_clothes_chooser
+Unloading plugin 3_libraries_polygon_hair_chooser
+Unloaded plugin 3_libraries_polygon_hair_chooser
+Unloading plugin 0_modeling_9_custom_targets
+Unloaded plugin 0_modeling_9_custom_targets
+Unloading plugin 9_export_light
+Unloaded plugin 9_export_light
+Unloading plugin 3_libraries_eyelashes
+Unloaded plugin 3_libraries_eyelashes
+Unloading plugin 7_logging
+Unloaded plugin 7_logging
+Unloading plugin 3_libraries_genitals_chooser
+Unloaded plugin 3_libraries_genitals_chooser
+Unloading plugin 4_rendering_9_viewer
+Unloaded plugin 4_rendering_9_viewer
+Unloading plugin 9_export_bvh
+Unloaded plugin 9_export_bvh
+Unloading plugin 0_modeling_0_modifiers
+Unloaded plugin 0_modeling_0_modifiers
+Unloading plugin 3_libraries_skeleton
+Unloaded plugin 3_libraries_skeleton
+Unloading plugin 3_libraries_eye_chooser
+Unloaded plugin 3_libraries_eye_chooser
+Unloading plugin 3_libraries_tongue
+Unloaded plugin 3_libraries_tongue
+Unloading plugin 3_libraries_teeth
+Unloaded plugin 3_libraries_teeth
+Unloading plugin 9_export_skel
+Unloaded plugin 9_export_skel
+Unloading plugin 0_modeling_background
+Unloaded plugin 0_modeling_background
+Unloading plugin 9_export_uvmap
+Unloaded plugin 9_export_uvmap
+Unloading plugin 9_export_mhx
+Unloaded plugin 9_export_mhx
+Unloading plugin 0_modeling_a_measurement
+Unloaded plugin 0_modeling_a_measurement
+Unloading plugin 9_export_ogre
+Unloaded plugin 9_export_ogre
+Unloading plugin 3_libraries_eyebrows
+Unloaded plugin 3_libraries_eyebrows

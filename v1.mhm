@@ -1,0 +1,84 @@
+# Written by MakeHuman 1.0.2
+version v1.0.2
+tags v1
+face head-triangular 1.000000
+face head-diamond 1.000000
+face head-age-less-more 1.000000
+face head-square 1.000000
+face head-angle-in-out 1.000000
+face head-rectangular 1.000000
+torso torso-trans-horiz-in-out 0.032000
+torso torso-trans-vert-down-up -0.130000
+torso torso-scale-depth-decr-incr 1.000000
+torso torso-vshape-less-more -1.000000
+torso torso-scale-horiz-decr-incr 0.226000
+torso torso-trans-depth-forward-backward -0.146000
+torso torso-scale-vert-decr-incr -1.000000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 8ed08ea6-e3ad-4d36-b8e7-c4e3836e66b7
+genitals penis01 3b354e4f-ebdb-4336-a5fb-add41fc05f12
+eyelashes eyelashes03 a311babf-a7fb-4d65-a1fc-94ab99fe520f
+eyebrows Eyebrow012 1c16325c-7831-4166-831a-05c5b609c219
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+clothes fedora_cocked 4cd07df0-831a-401f-86de-77a7d5e28142
+clothes worksuit d6eb4143-65ea-4cd4-b4fb-4edea0877a5c
+clothesHideFaces True
+armslegs r-lowerarm-scale-vert-decr-incr -1.000000
+armslegs l-hand-fingers-diameter-decr-incr -1.000000
+armslegs r-upperleg-scale-vert-decr-incr 1.000000
+armslegs l-hand-trans-in-out 1.000000
+armslegs r-hand-fingers-length-decr-incr 1.000000
+armslegs r-hand-fingers-diameter-decr-incr -1.000000
+armslegs l-upperleg-scale-vert-decr-incr 1.000000
+armslegs l-foot-scale-decr-incr 1.000000
+armslegs l-lowerarm-scale-vert-decr-incr -1.000000
+armslegs r-lowerarm-scale-horiz-decr-incr 1.000000
+armslegs l-upperleg-scale-horiz-decr-incr -1.000000
+armslegs r-leg-genu-varun-valgus 1.000000
+armslegs r-upperarm-scale-horiz-decr-incr 1.000000
+armslegs r-upperarm-scale-depth-decr-incr -1.000000
+armslegs l-upperarm-scale-depth-decr-incr -1.000000
+armslegs r-foot-trans-forward-backward -1.000000
+armslegs l-upperarm-scale-vert-decr-incr -1.000000
+armslegs l-foot-trans-forward-backward -1.000000
+armslegs r-upperleg-scale-depth-decr-incr -1.000000
+armslegs l-upperarm-scale-horiz-decr-incr 1.000000
+armslegs l-lowerleg-scale-horiz-decr-incr -1.000000
+armslegs r-hand-trans-in-out 1.000000
+armslegs r-lowerleg-scale-horiz-decr-incr -1.000000
+armslegs r-upperleg-scale-horiz-decr-incr -1.000000
+armslegs r-lowerarm-scale-depth-decr-incr -1.000000
+armslegs l-leg-genu-varun-valgus 1.000000
+armslegs r-lowerleg-scale-depth-decr-incr -1.000000
+armslegs r-foot-scale-decr-incr 1.000000
+armslegs l-lowerleg-scale-depth-decr-incr -1.000000
+armslegs l-foot-trans-in-out 1.000000
+armslegs r-upperarm-scale-vert-decr-incr -1.000000
+armslegs l-upperleg-scale-depth-decr-incr -1.000000
+armslegs l-hand-scale-decr-incr 1.000000
+armslegs r-hand-scale-decr-incr 1.000000
+armslegs r-foot-trans-in-out 1.000000
+armslegs l-lowerarm-scale-horiz-decr-incr 1.000000
+armslegs l-lowerarm-scale-depth-decr-incr -1.000000
+armslegs l-hand-fingers-length-decr-incr 1.000000
+gendered breast-dist-min-max 1.000000
+gendered breast-trans-vert-down-up 1.000000
+gendered BreastFirmness 0.000000
+gendered BreastSize 1.000000
+gendered breast-point-min-max 1.000000
+gendered breast-volume-vert-up-down 1.000000
+macro Weight 1.000000
+macro Gender 1.000000
+macro Age 1.000000
+macro Height 0.000000
+macro Asian 0.000000
+macro African 0.000000
+macro Caucasian 1.000000
+macro Muscle 0.000000
+macro BodyProportions 0.000000
+measure neckcirc 1.000000
+background enabled True
+skinMaterial skins/default.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/blue.mhmat
+material penis01 3b354e4f-ebdb-4336-a5fb-add41fc05f12 genitals/penis01/default.mhmat
+subdivide True
